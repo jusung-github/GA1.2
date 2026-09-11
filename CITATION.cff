@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: 'If you use this assignment, please cite it using these metadata.'
+authors:
+  - name: Delft University of Technology
+title: 'MUDE assignment 2026-2027: group assignment 1.3'
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: Brinkgreve
+    given-names: Ronald
+  - family-names: Störiko
+    given-names: Anna
+  - name: Delft University of Technology
+  url: 'https://github.com/MUDE-2026/GA1.3' 
+  title: 'MUDE assignment 2026-2027: group assignment 1.3'
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  languages:
+    - en
+  contact:
+  - email: MUDE-CEG@tudelft.nl
+    name: 'MUDE teaching team from Delft University of Technology'
